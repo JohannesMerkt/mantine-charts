@@ -1,4 +1,4 @@
-# mantine-extension-template
+# mantine charts - NOT READY FOR USE
 
 Template repository for Mantine extensions. It includes package build, publishing, testing,
 linting scripts and Next.js based documentation template. To get started with this template

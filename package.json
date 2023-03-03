@@ -1,7 +1,7 @@
 {
-  "name": "mantine-extension-template",
-  "version": "0.0.9",
-  "description": "Template for Mantine extensions",
+  "name": "mantine-charts",
+  "version": "0.0.0",
+  "description": "Charts for mantine",
   "types": "./dist/cjs/declarations/index.d.ts",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -34,18 +34,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rtivital/mantine-extension-template.git"
+    "url": "git+https://github.com/JohannesMerkt/mantine-charts.git"
   },
   "keywords": [
     "mantine",
     "extension"
   ],
-  "author": "Vitaly Rtishchev <rtivital@gmail.com>",
+  "author": "Johannes Merkt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rtivital/mantine-extension-template/issues"
+    "url": "https://github.com/JohannesMerkt/mantine-charts/issues"
   },
-  "homepage": "https://github.com/rtivital/mantine-extension-template#readme",
+  "homepage": "https://github.com/JohannesMerkt/mantine-charts#readme",
   "peerDependencies": {
     "@emotion/react": ">=11.9.0",
     "@mantine/core": ">=5.0.0",
